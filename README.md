@@ -18,12 +18,13 @@ Here's [my webpage](https://jcuetos97.github.io/Portfolio/) as well in case you 
 ![](https://img.shields.io/badge/Code-GitHub-informational?style=flat&logo=github&logoColor=white&color=11A1FF)
 ![](https://img.shields.io/badge/Code-Git-informational?style=flat&logo=git&logoColor=white&color=11A1FF)
 
-## 💼 Projects showcase
+## 💼 Project showcase
 
 - [Formula One Webpage](https://davidtc8.github.io/Formula1-Webpage/) using JS and BULMA CSS.
-- [Weather Dashboard](https://github.com/davidtc8/Movies_Data_Analysis) Case Study Project 🎥. 
-- [Password Generator](https://github.com/davidtc8/My_First_RPG_Game) that I made in Python.
-- [Work-Day Schedule](https://github.com/davidtc8/Automated_game_playing_bot) that plays games 
+- [Weather Dashboard](https://jcuetos97.github.io/Weather-Dashboard/) allows users to search for a city and obtain specific information about current weather.
+- [Password Generator](https://jcuetos97.github.io/Password-Generator/) based on user criteria.
+- [Work-Day Schedule](https://jcuetos97.github.io/Work-Day-Scheduler/) that lets users create a schedule for standard business hours.
+- [Code-Quiz](https://jcuetos97.github.io/Code-Quiz/) Having some fun with some easy questions!
 
 ## 📫 How to reach me
 
