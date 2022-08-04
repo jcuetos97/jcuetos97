@@ -1,7 +1,7 @@
 ### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = "40">
 
 
-Hi, I'm [Juan Jose Espinosa](https://www.linkedin.com/in/jcuetos97/), 🚀 from Oaxaca, Mexico! I'm interested in software development and currently developing my own projects.
+Hi, I'm [Juan Jose Espinosa](https://www.linkedin.com/in/jcuetos97/) from Oaxaca, Mexico! I'm interested in software development and currently developing my own projects.
 
 ## ✍🏻 Portfolio
 Here's [my webpage](https://jcuetos97.github.io/Portfolio/) as well in case you want to check see it! 
