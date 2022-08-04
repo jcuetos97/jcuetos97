@@ -27,4 +27,7 @@ Here's [my webpage](https://jcuetos97.github.io/Portfolio/) as well in case you 
 - [Code-Quiz](https://jcuetos97.github.io/Code-Quiz/) Having some fun with some easy questions!
 
 ## 📫 How to reach me
-
+<a href="https://www.linkedin.com/in/jcuetos97/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jorgebesnierb" height="30" width="40" /></a>
+<a href="https://www.facebook.com/jcuetos97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jorgebesnierb" height="30" width="40" /></a>
+<a href="https://instagram.com/juanjoespinosa97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jbesnier" height="30" width="40" /></a>
+</p>
