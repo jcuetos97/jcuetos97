@@ -1,10 +1,10 @@
 ### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = "40">
 
 
-Hi, I'm [Juan Jose Espinosa](https://www.linkedin.com/in/jcuetos97/) from Oaxaca, Mexico! I'm interested in software development and currently developing my own projects.
+Hi, my name is [Juan Jose Espinosa](https://www.linkedin.com/in/jcuetos97/), but everyone calls me Juanjo. I graduated as an architect form Monterrey Tec University. However, I've always been interested in technology and innovation, and that's why I've decided to switch gears and embark myself in this new, crazy adventure: becoming a professional software engineer.
 
 ## ✍🏻 Portfolio
-Here's [my webpage](https://jcuetos97.github.io/Portfolio/) as well in case you want to check see it! 
+Here's [my webpage](https://jcuetos97.github.io/Portfolio/) in case you want to check it and see my most recent work. I hope you enjoy it!
 
 ## 👨‍💻 Traditional CV
 
