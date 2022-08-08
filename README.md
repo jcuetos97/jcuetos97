@@ -4,7 +4,7 @@
 Hi, my name is [Juan Jose Espinosa](https://www.linkedin.com/in/jcuetos97/), but everyone calls me Juanjo. I graduated as an architect form Monterrey Tec University. However, I've always been interested in technology and innovation, and that's why I've decided to switch gears and embark myself in this new, crazy adventure: becoming a professional software engineer.
 
 ## ✍🏻 Portfolio
-Here's [my webpage](https://jcuetos97.github.io/Portfolio/) in case you want to check it and see my most recent work. I hope you enjoy it!
+Here's [my webpage](https://jcuetos97.github.io/Portfolio/) in case you want to check my most recent work. I hope you enjoy it!
 
 ## 👨‍💻 Traditional CV
 
@@ -24,7 +24,7 @@ Here's [my webpage](https://jcuetos97.github.io/Portfolio/) in case you want to 
 - [Weather Dashboard](https://jcuetos97.github.io/Weather-Dashboard/) allows users to search for a city and obtain specific information about current weather.
 - [Password Generator](https://jcuetos97.github.io/Password-Generator/) based on user criteria.
 - [Work-Day Schedule](https://jcuetos97.github.io/Work-Day-Scheduler/) that lets users create a schedule for standard business hours.
-- [Code-Quiz](https://jcuetos97.github.io/Code-Quiz/) Having some fun with some easy questions!
+- [Code-Quiz](https://jcuetos97.github.io/Code-Quiz/) Having some fun with multiple choice questions!
 
 ## 📫 How to reach me
 <a href="https://www.linkedin.com/in/jcuetos97/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jorgebesnierb" height="30" width="40" /></a>
