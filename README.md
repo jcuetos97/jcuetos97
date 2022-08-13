@@ -6,9 +6,9 @@ Hi, my name is [Juan Jose Espinosa](https://www.linkedin.com/in/jcuetos97/), but
 ## ✍🏻 Portfolio
 Here's [my webpage](https://jcuetos97.github.io/Portfolio/) in case you want to check my most recent work. I hope you enjoy it!
 
-## 👨‍💻 Traditional [CV](https://jcuetos97.github.io/Portfolio/)
+## 👨‍💻 Traditional CV
 
-📝 Here's My CV
+📝 Here's My [CV](https://docs.google.com/document/d/1fisFS3VGb63A6fbq2Z80CxXfWVc5qGZWp5Jvp80jsdU/edit#heading=h.94mzomqnedth)
   
 ## 🤖 Technologies & Tools
 
@@ -35,4 +35,5 @@ Here's [my webpage](https://jcuetos97.github.io/Portfolio/) in case you want to 
 ## :athletic_shoe: Not Programming 
 :writing_hand: I'm a published author. My book [Veintiun Poemas de Invierno](https://www.amazon.com.mx/Veinti%C3%BAn-poemas-invierno-Espinosa-Cuetos/dp/B0991LHXP2/ref=sr_1_1?keywords=veintiun+poemas+de+invierno&qid=1660398221&sprefix=veintiun+%2Caps%2C151&sr=8-1) is available in Amazon.  I love writing and reading in my free time!  
 :fountain_pen: I draw with ink. I also have an Instagram account if you want to check it out: [Punta del Guaje](https://www.instagram.com/punta_del_guaje/)
+
 :mountain: I like to go outdoors.
