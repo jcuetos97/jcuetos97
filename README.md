@@ -26,6 +26,8 @@ Here's [my webpage](https://jcuetos97.github.io/Portfolio/) in case you want to 
 - [Work-Day Schedule](https://jcuetos97.github.io/Work-Day-Scheduler/) that lets users create a schedule for standard business hours.
 - [Code-Quiz](https://jcuetos97.github.io/Code-Quiz/) Having some fun with multiple choice questions!
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jcuetos97&theme=radical)
+
 ## 📫 How to reach me
 <a href="https://www.linkedin.com/in/jcuetos97/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jorgebesnierb" height="30" width="40" /></a>
 <a href="https://www.facebook.com/jcuetos97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jorgebesnierb" height="30" width="40" /></a>
