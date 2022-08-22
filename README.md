@@ -1,5 +1,6 @@
 
-![Hi There!](https://user-images.githubusercontent.com/105081149/185957333-127977f3-e8b9-4be3-ad54-6b3055e355dc.png)
+![Hi There](https://user-images.githubusercontent.com/105081149/185957732-6d15edc8-d0b4-46f1-b884-1a957ff61a94.png)
+
 
 
 ### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = "40">
