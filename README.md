@@ -9,11 +9,11 @@
 Hi, my name is [Juan Jose Espinosa](https://www.linkedin.com/in/jcuetos97/), but everyone calls me Juanjo. I graduated as an architect form Monterrey Tec University. However, I've always been interested in technology and innovation, and that's why I've decided to switch gears and embark myself in this new, crazy adventure: becoming a professional software engineer.
 
 ## ✍🏻 Portfolio
-Here's [my webpage](https://jcuetos97.github.io/Portfolio/) in case you want to check my most recent work. I hope you enjoy it!
+Here's [my personal webpage](https://jcuetos97.github.io/Portfolio/) in case you want to check my most recent work. I hope you enjoy it!
 
 ## 👨‍💻 Traditional CV
 
-📝 Here's My [CV](https://docs.google.com/document/d/1fisFS3VGb63A6fbq2Z80CxXfWVc5qGZWp5Jvp80jsdU/edit#heading=h.94mzomqnedth)
+📝 Here's my [CV](https://docs.google.com/document/d/1fisFS3VGb63A6fbq2Z80CxXfWVc5qGZWp5Jvp80jsdU/edit#heading=h.94mzomqnedth)
   
 ## 🤖 Technologies & Tools
 
