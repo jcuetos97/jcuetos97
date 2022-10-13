@@ -41,6 +41,6 @@ Here's [my personal webpage](https://jcuetos97.github.io/Web-Developer-Portfolio
 </p>
 
 ## :walking: Not Programming 
-- :writing_hand: I'm a published author. My book [Veintiun Poemas de Invierno](https://www.amazon.com.mx/Veinti%C3%BAn-poemas-invierno-Espinosa-Cuetos/dp/B0991LHXP2/ref=sr_1_1?keywords=veintiun+poemas+de+invierno&qid=1660398221&sprefix=veintiun+%2Caps%2C151&sr=8-1) is available in Amazon.  I love writing and reading in my free time!  
+- :writing_hand: I'm a published author. My books [Veintiun Poemas de Invierno](https://www.amazon.com.mx/Veinti%C3%BAn-poemas-invierno-Espinosa-Cuetos/dp/B0991LHXP2/ref=sr_1_1?keywords=veintiun+poemas+de+invierno&qid=1660398221&sprefix=veintiun+%2Caps%2C151&sr=8-1) and [El Arquitecto](https://www.amazon.com/-/es/Juan-Jos%C3%A9-Espinosa-Cuetos-ebook/dp/B0BD174SM8/ref=sr_1_1?keywords=el+arquitecto+juan+jose+espinosa&qid=1665677923&s=digital-text&sprefix=%2Cdigital-text%2C104&sr=1-1) are available on Amazon.  I love writing and reading in my free time!  
 - :fountain_pen: I draw with ink. I also have an Instagram account if you want to check it out: [Punta del Guaje](https://www.instagram.com/punta_del_guaje/)
 - :mountain: I like to go outdoors.
