@@ -13,7 +13,7 @@ Here's [my personal webpage](https://jcuetos97.github.io/Web-Developer-Portfolio
 
 ## 👨‍💻 Traditional CV
 
-📝 Here's my [CV](https://docs.google.com/document/d/1fisFS3VGb63A6fbq2Z80CxXfWVc5qGZWp5Jvp80jsdU/edit#heading=h.94mzomqnedth)
+📝 Here's my [CV](https://drive.google.com/file/d/1ipTCDtdLZsDmc8CRaJLJ609dgzwVSLZ3/view?usp=sharing)
   
 ## 🤖 Technologies & Tools
 
