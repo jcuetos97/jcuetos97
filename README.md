@@ -26,6 +26,7 @@ Here's [my personal webpage](https://jcuetos97.github.io/Web-Developer-Portfolio
 
 ## 💼 Project showcase
 - [COOKED](https://cooked.herokuapp.com/welcome) social network that connects people with a common passion for cooking.
+- [Social Network API](https://github.com/jcuetos97/Social-Network-API) using noSQL MongoDB/Mongoose.
 - [Formula One Webpage](https://davidtc8.github.io/Formula1-Webpage/) using JS and BULMA CSS.
 - [Weather Dashboard](https://jcuetos97.github.io/Weather-Dashboard/) allows users to search for a city and obtain specific information about current weather.
 - [Password Generator](https://jcuetos97.github.io/Password-Generator/) based on user criteria.
