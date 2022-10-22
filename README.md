@@ -23,8 +23,9 @@ Here's [my personal webpage](https://jcuetos97.github.io/Web-Developer-Portfolio
 ![](https://img.shields.io/badge/Code-GitHub-informational?style=flat&logo=github&logoColor=white&color=11A1FF)
 ![](https://img.shields.io/badge/Code-Git-informational?style=flat&logo=git&logoColor=white&color=11A1FF)
 ![](https://img.shields.io/badge/Tools-NodeJS-informational?style=flat&logo=nodejs&logoColor=white&color=11A1FF)
-![](https://img.shields.io/badge/Tools-NodeJS-informational?style=flat&logo=mongodb&logoColor=white&color=11A1FF)
-![](https://img.shields.io/badge/Tools-NodeJS-informational?style=flat&logo=pwa&logoColor=white&color=11A1FF)
+![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=11A1FF)
+![](https://img.shields.io/badge/Tools-PWA-informational?style=flat&logo=pwa&logoColor=white&color=11A1FF)
+![](https://img.shields.io/badge/Tools-React.js-informational?style=flat&logo=react.js&logoColor=white&color=11A1FF)
 ## 💼 Project showcase
 - [COOKED](https://cooked.herokuapp.com/welcome) social network that connects people with a common passion for cooking.
 - [Social Network API](https://github.com/jcuetos97/Social-Network-API) using noSQL MongoDB/Mongoose.
