@@ -19,11 +19,13 @@ Here's [my personal webpage](https://jcuetos97.github.io/Web-Developer-Portfolio
 
 ![](https://img.shields.io/badge/Editor-VS-informational?style=flat&logo=visualstudio&logoColor=white&color=11A1FF)
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=11A1FF)
-![](https://img.shields.io/badge/Tools-SQL-informational?style=flat&logo=postgresql&logoColor=white&color=11A1FF)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=11A1FF)
 ![](https://img.shields.io/badge/Code-GitHub-informational?style=flat&logo=github&logoColor=white&color=11A1FF)
 ![](https://img.shields.io/badge/Code-Git-informational?style=flat&logo=git&logoColor=white&color=11A1FF)
 ![](https://img.shields.io/badge/Tools-NodeJS-informational?style=flat&logo=nodejs&logoColor=white&color=11A1FF)
+![](https://img.shields.io/badge/Tools-ExpressJS-informational?style=flat&logo=expressjs&logoColor=white&color=11A1FF)
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=11A1FF)
+![](https://img.shields.io/badge/Tools-SQL-informational?style=flat&logo=postgresql&logoColor=white&color=11A1FF)
 ![](https://img.shields.io/badge/Tools-PWA-informational?style=flat&logo=pwa&logoColor=white&color=11A1FF)
 ![](https://img.shields.io/badge/Tools-React.js-informational?style=flat&logo=react.js&logoColor=white&color=11A1FF)
 ## 💼 Project showcase
