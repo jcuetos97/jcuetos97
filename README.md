@@ -5,10 +5,10 @@
 
 ### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = "40">
 
-
 Hi, my name is [Juan Jose Espinosa](https://www.linkedin.com/in/jcuetos97/), but everyone calls me Juanjo. I graduated as an architect form Monterrey Tec University. However, I've always been interested in technology and innovation, and that's why I've decided to switch gears and embark myself in this new, crazy adventure: becoming a professional software engineer.
 
 ## ✍🏻 Portfolio
+
 Here's [my personal webpage](https://jcuetos97.github.io/Web-Developer-Portfolio/) in case you want to check my most recent work. I hope you enjoy it!
 
 ## 👨‍💻 Traditional CV
@@ -28,6 +28,7 @@ Here's [my personal webpage](https://jcuetos97.github.io/Web-Developer-Portfolio
 ![](https://img.shields.io/badge/Tools-SQL-informational?style=flat&logo=postgresql&logoColor=white&color=11A1FF)
 ![](https://img.shields.io/badge/Tools-PWA-informational?style=flat&logo=pwa&logoColor=white&color=11A1FF)
 ![](https://img.shields.io/badge/Tools-React.js-informational?style=flat&logo=react.js&logoColor=white&color=11A1FF)
+
 ## 💼 Project showcase
 - [COOKED](https://cooked.herokuapp.com/welcome) social network that connects people with a common passion for cooking.
 - [Social Network API](https://github.com/jcuetos97/Social-Network-API) using noSQL MongoDB/Mongoose.
