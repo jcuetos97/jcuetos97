@@ -9,7 +9,7 @@ Hi, my name is [Juan Jose Espinosa](https://www.linkedin.com/in/jcuetos97/), but
 
 ## ✍🏻 Portfolio
 
-Here's [my personal webpage](https://jcuetos97.github.io/Portfolio/) in case you want to check my most recent work. I hope you enjoy it!
+Here's [my personal webpage](https://jcuetos97.github.io/Web-Developer-Portfolio/) in case you want to check my most recent work. I hope you enjoy it!
 
 ## 👨‍💻 Traditional CV
 
